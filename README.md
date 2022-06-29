@@ -1,2 +1,3 @@
 # my-project
-Template repository for web-based experiment projects.
+
+The experiments folder contains the files to run the experiments reported in the paper.
